@@ -1,6 +1,5 @@
 
 
-```markdown
 # Bajaj Trading Sim (bajaj-trading-sim)
 
 A **simplified Trading API simulation** with a **wrapper SDK**, built for the Bajaj Broking Campus Hiring Assignment.
