@@ -1,7 +1,4 @@
-Below is a **detailed, thorough README** you can copy-paste into your `README.md`.
-It is written to match the assignment exactly and to help you explain clearly in interview.
 
----
 
 ```markdown
 # Bajaj Trading Sim (bajaj-trading-sim)
