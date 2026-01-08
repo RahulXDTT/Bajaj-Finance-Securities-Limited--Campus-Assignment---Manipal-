@@ -1,0 +1,32 @@
+[
+    {
+        "symbol": "TCS",
+        "exchange": "NSE",
+        "instrumentType": "STOCK",
+        "lastTradedPrice": 4200.50
+    },
+    {
+        "symbol": "INFY",
+        "exchange": "NSE",
+        "instrumentType": "STOCK",
+        "lastTradedPrice": 1800.25
+    },
+    {
+        "symbol": "RELIANCE",
+        "exchange": "NSE",
+        "instrumentType": "STOCK",
+        "lastTradedPrice": 2500.00
+    },
+    {
+        "symbol": "HDFC",
+        "exchange": "NSE",
+        "instrumentType": "STOCK",
+        "lastTradedPrice": 1600.75
+    },
+    {
+        "symbol": "ITC",
+        "exchange": "NSE",
+        "instrumentType": "STOCK",
+        "lastTradedPrice": 400.30
+    }
+]

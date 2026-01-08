@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bajaj.sim.demo.ScenarioRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s - in com.bajaj.sim.demo.ScenarioRunnerTest
