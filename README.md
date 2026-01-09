@@ -413,9 +413,7 @@ Invoke-RestMethod -Uri "http://localhost:8081/api/v1/portfolio"
 
 ---
 
-## 8) Screenshots / Evidence (What to include)
-
-To strengthen your submission, include screenshots of:
+## 8) Screenshots / Evidence
 
 1. Server running logs (Tomcat started on port 8081)
 2. GET /instruments output
@@ -451,9 +449,9 @@ This resets orders/trades/portfolio.
 
 ---
 
-## 10) Notes for Interview Discussion
+## 10) Notes 
 
-Key points to explain:
+Key points 
 
 * REST endpoints are resource-based (`/instruments`, `/orders`, `/trades`, `/portfolio`)
 * MARKET vs LIMIT simulation
