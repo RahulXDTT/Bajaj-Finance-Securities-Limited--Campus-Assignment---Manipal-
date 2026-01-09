@@ -425,20 +425,20 @@ To strengthen your submission, include screenshots of:
 
 
 
-```
-/screenshots
-```
+## Screenshots
 
-Example:
+### 1) Server started successfully
+![Server Start](screenshots/01-server-start.png)
 
-* `<img width="1688" height="1151" alt="image" src="https://github.com/user-attachments/assets/820db904-8802-4f83-91ce-169473121585" />`
-* `<img width="1691" height="839" alt="image" src="https://github.com/user-attachments/assets/983fef56-c7f4-4d11-aa8b-78a3af357a4b" />`
-* `<img width="1704" height="135" alt="image" src="https://github.com/user-attachments/assets/79da7803-c7c2-4978-9ab9-2ed186823bbb" />
-`
-* `<img width="1700" height="1205" alt="image" src="https://github.com/user-attachments/assets/92ba0ae8-a477-4197-b3ca-714bb6873b2c" />`
-* `<img width="1701" height="225" alt="image" src="https://github.com/user-attachments/assets/9552a290-39db-4bb8-90e2-cf0268797ba3" />`
+### 2) Fetch Instruments API
+![Get Instruments](screenshots/02-instruments.png)
 
----
+### 3) Place MARKET Order
+![Place Order](screenshots/03-place-order.png)
+
+### 4) Portfolio Output
+![Portfolio](screenshots/04-portfolio.png)
+
 
 ## 9) How to Reset Data (In-memory storage)
 
